@@ -1,0 +1,18 @@
+div .jumbotron {
+  background-image: url(../img/coder.jpeg);
+  background-position: 0% 25%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  text-shadow: black 0.3em 0.3em 0.3em;
+}
+
+.thumbnail{
+  border:solid black 1px;
+  padding:1em;
+  border-radius: 25px;
+  border-color: grey;
+  border-width: medium;
+  margin-top: 25px;
+  text-align: center;
+}
